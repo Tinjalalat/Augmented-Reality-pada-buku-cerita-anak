@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/LayarUtama.unity
+    guid: 047296b95d26ea440a171f4e720756af
+  - enabled: 1
+    path: Assets/scene marker/beruang scene.unity
+    guid: c7e29133ae53ed8439de9d5209d0460b
+  - enabled: 1
+    path: Assets/scene marker/tupai scene.unity
+    guid: e32e78480723c804194a24add6a35789
+  - enabled: 1
+    path: Assets/scene marker/kelinci scene.unity
+    guid: 769d94e3550dfdb4d8d8a93daadfda21
+  - enabled: 1
+    path: Assets/scene marker/kucing scene.unity
+    guid: b4b880b4e50255c4991c7fe0072ebc9b
+  - enabled: 1
+    path: Assets/scene markerless beruang.unity
+    guid: 6e35f52a808d8144ca2b10b7315a5157
+  - enabled: 1
+    path: Assets/MarkerlessTupai.unity
+    guid: df6b846b4ad102a459cf1dccdb13f889
+  - enabled: 1
+    path: Assets/MkrlessKelinci.unity
+    guid: 19b5d819f1f22b34f96a766a1e914b20
+  - enabled: 1
+    path: Assets/MarkerlessKucing.unity
+    guid: f3202cfc24d0e4b42916999ca367d28d
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: ef45d197b661dd0408766b0ad64413ba, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
